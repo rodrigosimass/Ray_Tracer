@@ -1,0 +1,97 @@
+﻿  boundingBox.cpp
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\boundingBox.cpp(62,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\boundingBox.cpp(75,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\boundingBox.cpp(88,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\boundingBox.cpp(203,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\boundingBox.cpp(216,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\boundingBox.cpp(229,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  grid.cpp
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\camera.h(69,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\camera.h(72,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(42,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(41,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(40,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(132,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(133,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(134,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(149,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(150,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(151,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(153,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(154,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(155,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(240,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(252,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(264,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(308,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(309,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(310,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(316,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(317,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(318,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(495,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(507,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(519,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(557,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(558,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(559,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(565,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(566,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(567,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(641,15): warning C4101: 'dist': unreferenced local variable
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(642,17): warning C4101: 'o': unreferenced local variable
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(714,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(726,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(738,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(776,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(777,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(778,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(784,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(785,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(786,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(860,15): warning C4101: 'dist': unreferenced local variable
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\grid.cpp(861,17): warning C4101: 'o': unreferenced local variable
+  main.cpp
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\camera.h(69,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\camera.h(72,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(42,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(41,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(40,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(142,136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(142,166): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(145,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(198,137): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(198,167): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(201,138): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(209,29): warning C4244: 'argument': conversion from 'time_t' to 'const int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(268,140): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(268,170): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(271,141): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(65,14): warning C4101: 'iz': unreferenced local variable
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(65,6): warning C4101: 'ix': unreferenced local variable
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(65,10): warning C4101: 'iy': unreferenced local variable
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\main.cpp(618,28): warning C4244: 'argument': conversion from 'time_t' to 'const int', possible loss of data
+  sampler.cpp
+  scene.cpp
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\camera.h(69,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\camera.h(72,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(42,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(41,14): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\color.h(40,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(229,23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(246,22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(380,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(381,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(317,8): warning C4101: 't_intersec': unreferenced local variable
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(431,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(431,52): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(431,45): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(431,41): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(431,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\scene.cpp(534,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  vector.cpp
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\vector.cpp(89,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+C:\Users\rodri\Ambiente de Trabalho\Group07\P3D_Template1\vector.cpp(22): warning C4715: 'Vector::get': not all control paths return a value
+  P3D_Template1.vcxproj -> C:\Users\rodri\Ambiente de Trabalho\Group07\x64\Debug\P3D_Template1.exe
+  0 File(s) copied
